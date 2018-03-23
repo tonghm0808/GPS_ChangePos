@@ -1,0 +1,1501 @@
+Archive member included because of file (symbol)
+
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_cos.o)
+                              ..\obj\gps.o (cos)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_sin.o)
+                              ..\obj\gps.o (sin)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_atan2.o)
+                              ..\obj\gps.o (atan2)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_sqrt.o)
+                              ..\obj\gps.o (sqrt)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_atan2.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_atan2.o) (__ieee754_atan2)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_rem_pio2.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_cos.o) (__ieee754_rem_pio2)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_sqrt.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_sqrt.o) (__ieee754_sqrt)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_cos.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_cos.o) (__kernel_cos)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_rem_pio2.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_rem_pio2.o) (__kernel_rem_pio2)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_sin.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_cos.o) (__kernel_sin)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_atan.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_atan2.o) (atan)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fabs.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_atan2.o) (fabs)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_floor.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_rem_pio2.o) (floor)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fpclassify.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_sqrt.o) (__fpclassifyd)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_lib_ver.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_sqrt.o) (__fdlib_version)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_sqrt.o) (matherr)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_scalbn.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_rem_pio2.o) (scalbn)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_copysign.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_scalbn.o) (copysign)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubdf3.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_cos.o) (__aeabi_dsub)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivdf3.o)
+                              ..\obj\gps.o (__aeabi_dmul)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpdf2.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_rem_pio2.o) (__aeabi_dcmpeq)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixdfsi.o)
+                              ..\obj\gps.o (__aeabi_d2iz)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-errno.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_sqrt.o) (__errno)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-exit.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-impure.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-exit.o) (_global_impure_ptr)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-init.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memset.o)
+                              c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+
+Allocating common symbols
+Common symbol       size              file
+
+gps_Stk             0x3fc             ..\obj\main.o
+gpsdata             0xff              ..\obj\gps.o
+l                   0x8               ..\obj\gps.o
+i                   0x1               ..\obj\gps.o
+xx                  0x8               ..\obj\gps.o
+rx_Queue            0xfa0             ..\obj\main.o
+led_Stk             0x200             ..\obj\main.o
+rx_Buff             0x3e8             ..\obj\main.o
+yy                  0x8               ..\obj\gps.o
+s                   0x8               ..\obj\gps.o
+startup_Stk         0x200             ..\obj\main.o
+usart_Rx            0x1               ..\obj\main.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crti.o
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crti.o
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crti.o
+ .data          0x00000000        0x4 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+ .text          0x00000000       0x74 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .data          0x00000000        0x0 ..\obj\mbox.o
+ .bss           0x00000000        0x0 ..\obj\mbox.o
+ .text          0x00000000      0x94c ..\obj\stm32f10x_fsmc.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_fsmc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_fsmc.o
+ .debug_info    0x00000000      0x8f4 ..\obj\stm32f10x_fsmc.o
+ .debug_abbrev  0x00000000      0x170 ..\obj\stm32f10x_fsmc.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f10x_fsmc.o
+ .debug_line    0x00000000      0x354 ..\obj\stm32f10x_fsmc.o
+ .debug_str     0x00000000      0x79b ..\obj\stm32f10x_fsmc.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_fsmc.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_fsmc.o
+ .debug_frame   0x00000000      0x220 ..\obj\stm32f10x_fsmc.o
+ .data          0x00000000        0x0 ..\obj\flag.o
+ .text          0x00000000      0x404 ..\obj\stm32f10x_dma.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_dma.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_dma.o
+ .debug_info    0x00000000      0x473 ..\obj\stm32f10x_dma.o
+ .debug_abbrev  0x00000000      0x155 ..\obj\stm32f10x_dma.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f10x_dma.o
+ .debug_line    0x00000000      0x270 ..\obj\stm32f10x_dma.o
+ .debug_str     0x00000000      0x3d8 ..\obj\stm32f10x_dma.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_dma.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_dma.o
+ .debug_frame   0x00000000      0x144 ..\obj\stm32f10x_dma.o
+ .data          0x00000000        0x0 ..\obj\core.o
+ .data          0x00000000        0x0 ..\obj\arch.o
+ .text          0x00000000      0x1ac ..\obj\stm32f10x_pwr.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_pwr.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_pwr.o
+ .debug_info    0x00000000      0x483 ..\obj\stm32f10x_pwr.o
+ .debug_abbrev  0x00000000      0x18e ..\obj\stm32f10x_pwr.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f10x_pwr.o
+ .debug_line    0x00000000      0x239 ..\obj\stm32f10x_pwr.o
+ .debug_str     0x00000000      0x343 ..\obj\stm32f10x_pwr.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_pwr.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_pwr.o
+ .debug_frame   0x00000000      0x108 ..\obj\stm32f10x_pwr.o
+ .data          0x00000000        0x0 ..\obj\serviceReq.o
+ .text          0x00000000       0x70 ..\obj\stm32f10x_dbgmcu.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_dbgmcu.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_dbgmcu.o
+ .debug_info    0x00000000      0x15e ..\obj\stm32f10x_dbgmcu.o
+ .debug_abbrev  0x00000000       0xde ..\obj\stm32f10x_dbgmcu.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f10x_dbgmcu.o
+ .debug_line    0x00000000      0x1e3 ..\obj\stm32f10x_dbgmcu.o
+ .debug_str     0x00000000      0x213 ..\obj\stm32f10x_dbgmcu.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_dbgmcu.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_dbgmcu.o
+ .debug_frame   0x00000000       0x5c ..\obj\stm32f10x_dbgmcu.o
+ .text          0x00000000      0x290 ..\obj\stm32f10x_cec.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_cec.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_cec.o
+ .debug_info    0x00000000      0x41d ..\obj\stm32f10x_cec.o
+ .debug_abbrev  0x00000000      0x1ae ..\obj\stm32f10x_cec.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f10x_cec.o
+ .debug_line    0x00000000      0x24d ..\obj\stm32f10x_cec.o
+ .debug_str     0x00000000      0x397 ..\obj\stm32f10x_cec.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_cec.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_cec.o
+ .debug_frame   0x00000000      0x190 ..\obj\stm32f10x_cec.o
+ .text          0x00000000      0x108 ..\obj\syscalls.o
+ .data          0x00000000        0x0 ..\obj\syscalls.o
+ .bss           0x00000000        0x4 ..\obj\syscalls.o
+ .debug_info    0x00000000      0x3ee ..\obj\syscalls.o
+ .debug_abbrev  0x00000000       0xe2 ..\obj\syscalls.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\syscalls.o
+ .debug_line    0x00000000      0x127 ..\obj\syscalls.o
+ .debug_str     0x00000000      0x2e8 ..\obj\syscalls.o
+ .comment       0x00000000       0x71 ..\obj\syscalls.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\syscalls.o
+ .debug_frame   0x00000000      0x108 ..\obj\syscalls.o
+ .data          0x00000000        0x0 ..\obj\task.o
+ .data          0x00000000        0x0 ..\obj\sem.o
+ .bss           0x00000000        0x0 ..\obj\sem.o
+ .text          0x00000000      0x6f4 ..\obj\stm32f10x_spi.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_spi.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_spi.o
+ .debug_info    0x00000000      0x8f3 ..\obj\stm32f10x_spi.o
+ .debug_abbrev  0x00000000      0x17e ..\obj\stm32f10x_spi.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f10x_spi.o
+ .debug_line    0x00000000      0x2e8 ..\obj\stm32f10x_spi.o
+ .debug_str     0x00000000      0x61e ..\obj\stm32f10x_spi.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_spi.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_spi.o
+ .debug_frame   0x00000000      0x29c ..\obj\stm32f10x_spi.o
+ .text          0x00000000      0x118 ..\obj\stm32f10x_wwdg.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_wwdg.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_wwdg.o
+ .debug_info    0x00000000      0x22e ..\obj\stm32f10x_wwdg.o
+ .debug_abbrev  0x00000000      0x117 ..\obj\stm32f10x_wwdg.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f10x_wwdg.o
+ .debug_line    0x00000000      0x1fb ..\obj\stm32f10x_wwdg.o
+ .debug_str     0x00000000      0x27e ..\obj\stm32f10x_wwdg.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_wwdg.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_wwdg.o
+ .debug_frame   0x00000000       0xe4 ..\obj\stm32f10x_wwdg.o
+ .data          0x00000000        0x0 ..\obj\kernelHeap.o
+ .data          0x00000000        0x0 ..\obj\time.o
+ .text          0x00000000      0x2a8 ..\obj\stm32f10x_rtc.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_rtc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_rtc.o
+ .debug_info    0x00000000      0x437 ..\obj\stm32f10x_rtc.o
+ .debug_abbrev  0x00000000      0x17e ..\obj\stm32f10x_rtc.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f10x_rtc.o
+ .debug_line    0x00000000      0x238 ..\obj\stm32f10x_rtc.o
+ .debug_str     0x00000000      0x3c3 ..\obj\stm32f10x_rtc.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_rtc.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_rtc.o
+ .debug_frame   0x00000000      0x194 ..\obj\stm32f10x_rtc.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_usart.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_usart.o
+ .data          0x00000000        0x0 ..\obj\queue.o
+ .text          0x00000000       0xd0 ..\obj\stm32f10x_crc.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_crc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_crc.o
+ .debug_info    0x00000000      0x208 ..\obj\stm32f10x_crc.o
+ .debug_abbrev  0x00000000      0x114 ..\obj\stm32f10x_crc.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f10x_crc.o
+ .debug_line    0x00000000      0x1fb ..\obj\stm32f10x_crc.o
+ .debug_str     0x00000000      0x25c ..\obj\stm32f10x_crc.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_crc.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_crc.o
+ .debug_frame   0x00000000       0xac ..\obj\stm32f10x_crc.o
+ .text          0x00000000      0xa20 ..\obj\stm32f10x_adc.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_adc.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_adc.o
+ .debug_info    0x00000000      0xb74 ..\obj\stm32f10x_adc.o
+ .debug_abbrev  0x00000000      0x198 ..\obj\stm32f10x_adc.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f10x_adc.o
+ .debug_line    0x00000000      0x335 ..\obj\stm32f10x_adc.o
+ .debug_str     0x00000000      0x71c ..\obj\stm32f10x_adc.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_adc.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_adc.o
+ .debug_frame   0x00000000      0x400 ..\obj\stm32f10x_adc.o
+ .text          0x00000000      0x304 ..\obj\stm32f10x_dac.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_dac.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_dac.o
+ .debug_info    0x00000000      0x4b0 ..\obj\stm32f10x_dac.o
+ .debug_abbrev  0x00000000      0x173 ..\obj\stm32f10x_dac.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f10x_dac.o
+ .debug_line    0x00000000      0x246 ..\obj\stm32f10x_dac.o
+ .debug_str     0x00000000      0x3d0 ..\obj\stm32f10x_dac.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_dac.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_dac.o
+ .debug_frame   0x00000000      0x160 ..\obj\stm32f10x_dac.o
+ .data          0x00000000        0x0 ..\obj\main.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_gpio.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_gpio.o
+ .data          0x00000000        0x0 ..\obj\mutex.o
+ .data          0x00000000        0x0 ..\obj\usart.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_rcc.o
+ .text          0x00000000      0x36c ..\obj\mm.o
+ .data          0x00000000        0x0 ..\obj\mm.o
+ .bss           0x00000000       0x24 ..\obj\mm.o
+ .debug_info    0x00000000      0x304 ..\obj\mm.o
+ .debug_abbrev  0x00000000      0x112 ..\obj\mm.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\mm.o
+ .debug_line    0x00000000      0x142 ..\obj\mm.o
+ .debug_str     0x00000000      0x251 ..\obj\mm.o
+ .comment       0x00000000       0x71 ..\obj\mm.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\mm.o
+ .debug_frame   0x00000000       0xb0 ..\obj\mm.o
+ .text          0x00000000      0x514 ..\obj\stm32f10x_sdio.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_sdio.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_sdio.o
+ .debug_info    0x00000000      0x7ed ..\obj\stm32f10x_sdio.o
+ .debug_abbrev  0x00000000      0x1af ..\obj\stm32f10x_sdio.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f10x_sdio.o
+ .debug_line    0x00000000      0x2af ..\obj\stm32f10x_sdio.o
+ .debug_str     0x00000000      0x651 ..\obj\stm32f10x_sdio.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_sdio.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_sdio.o
+ .debug_frame   0x00000000      0x340 ..\obj\stm32f10x_sdio.o
+ .data          0x00000000        0x0 ..\obj\misc.o
+ .bss           0x00000000        0x0 ..\obj\misc.o
+ .text          0x00000000      0x958 ..\obj\stm32f10x_i2c.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_i2c.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_i2c.o
+ .debug_info    0x00000000      0xb00 ..\obj\stm32f10x_i2c.o
+ .debug_abbrev  0x00000000      0x164 ..\obj\stm32f10x_i2c.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f10x_i2c.o
+ .debug_line    0x00000000      0x31e ..\obj\stm32f10x_i2c.o
+ .debug_str     0x00000000      0x687 ..\obj\stm32f10x_i2c.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_i2c.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_i2c.o
+ .debug_frame   0x00000000      0x3b4 ..\obj\stm32f10x_i2c.o
+ .data          0x00000000        0x0 ..\obj\gps.o
+ .text          0x00000000       0x14 ..\obj\startup_stm32f10x_md.o
+ .data          0x00000000        0x0 ..\obj\startup_stm32f10x_md.o
+ .bss           0x00000000        0x0 ..\obj\startup_stm32f10x_md.o
+ .data          0x00000000        0x0 ..\obj\Ostimer.o
+ .bss           0x00000000        0x0 ..\obj\system_stm32f10x.o
+ .text          0x00000000      0xf98 ..\obj\stm32f10x_can.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_can.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_can.o
+ .debug_info    0x00000000      0xb9c ..\obj\stm32f10x_can.o
+ .debug_abbrev  0x00000000      0x1f3 ..\obj\stm32f10x_can.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f10x_can.o
+ .debug_line    0x00000000      0x421 ..\obj\stm32f10x_can.o
+ .debug_str     0x00000000      0x74f ..\obj\stm32f10x_can.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_can.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_can.o
+ .debug_frame   0x00000000      0x2d4 ..\obj\stm32f10x_can.o
+ .text          0x00000000      0x1bc ..\obj\stm32f10x_bkp.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_bkp.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_bkp.o
+ .debug_info    0x00000000      0x79e ..\obj\stm32f10x_bkp.o
+ .debug_abbrev  0x00000000      0x172 ..\obj\stm32f10x_bkp.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f10x_bkp.o
+ .debug_line    0x00000000      0x214 ..\obj\stm32f10x_bkp.o
+ .debug_str     0x00000000      0x5d6 ..\obj\stm32f10x_bkp.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_bkp.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_bkp.o
+ .debug_frame   0x00000000      0x150 ..\obj\stm32f10x_bkp.o
+ .text          0x00000000      0x96c ..\obj\stm32f10x_flash.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_flash.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_flash.o
+ .debug_info    0x00000000      0x7b3 ..\obj\stm32f10x_flash.o
+ .debug_abbrev  0x00000000      0x162 ..\obj\stm32f10x_flash.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f10x_flash.o
+ .debug_line    0x00000000      0x368 ..\obj\stm32f10x_flash.o
+ .debug_str     0x00000000      0x609 ..\obj\stm32f10x_flash.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_flash.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_flash.o
+ .debug_frame   0x00000000      0x338 ..\obj\stm32f10x_flash.o
+ .bss           0x00000000        0x0 ..\obj\port.o
+ .text          0x00000000       0xc8 ..\obj\stm32f10x_iwdg.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_iwdg.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_iwdg.o
+ .debug_info    0x00000000      0x20a ..\obj\stm32f10x_iwdg.o
+ .debug_abbrev  0x00000000      0x101 ..\obj\stm32f10x_iwdg.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f10x_iwdg.o
+ .debug_line    0x00000000      0x1f2 ..\obj\stm32f10x_iwdg.o
+ .debug_str     0x00000000      0x27d ..\obj\stm32f10x_iwdg.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_iwdg.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_iwdg.o
+ .debug_frame   0x00000000       0xb0 ..\obj\stm32f10x_iwdg.o
+ .text          0x00000000     0x1da0 ..\obj\stm32f10x_tim.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_tim.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_tim.o
+ .debug_info    0x00000000     0x1c58 ..\obj\stm32f10x_tim.o
+ .debug_abbrev  0x00000000      0x1b0 ..\obj\stm32f10x_tim.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f10x_tim.o
+ .debug_line    0x00000000      0x5cc ..\obj\stm32f10x_tim.o
+ .debug_str     0x00000000      0xdfe ..\obj\stm32f10x_tim.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_tim.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_tim.o
+ .debug_frame   0x00000000      0xa20 ..\obj\stm32f10x_tim.o
+ .text          0x00000000      0x11c ..\obj\utility.o
+ .data          0x00000000        0x0 ..\obj\utility.o
+ .bss           0x00000000        0x0 ..\obj\utility.o
+ .debug_info    0x00000000      0x168 ..\obj\utility.o
+ .debug_abbrev  0x00000000       0xae ..\obj\utility.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\utility.o
+ .debug_line    0x00000000       0xba ..\obj\utility.o
+ .debug_str     0x00000000      0x18a ..\obj\utility.o
+ .comment       0x00000000       0x71 ..\obj\utility.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\utility.o
+ .debug_frame   0x00000000       0x48 ..\obj\utility.o
+ .data          0x00000000        0x0 ..\obj\event.o
+ .text          0x00000000      0x214 ..\obj\stm32f10x_exti.o
+ .data          0x00000000        0x0 ..\obj\stm32f10x_exti.o
+ .bss           0x00000000        0x0 ..\obj\stm32f10x_exti.o
+ .debug_info    0x00000000      0x343 ..\obj\stm32f10x_exti.o
+ .debug_abbrev  0x00000000      0x17a ..\obj\stm32f10x_exti.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32f10x_exti.o
+ .debug_line    0x00000000      0x236 ..\obj\stm32f10x_exti.o
+ .debug_str     0x00000000      0x36a ..\obj\stm32f10x_exti.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_exti.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32f10x_exti.o
+ .debug_frame   0x00000000       0xec ..\obj\stm32f10x_exti.o
+ .data          0x00000000        0x0 ..\obj\hook.o
+ .bss           0x00000000        0x0 ..\obj\hook.o
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_cos.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_cos.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_cos.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_sin.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_sin.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_sin.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_atan2.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_atan2.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_atan2.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_sqrt.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_sqrt.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_sqrt.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_atan2.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_atan2.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_atan2.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_rem_pio2.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_rem_pio2.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_rem_pio2.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_sqrt.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_sqrt.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_sqrt.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_cos.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_cos.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_cos.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_rem_pio2.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_rem_pio2.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_rem_pio2.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_sin.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_sin.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_sin.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_atan.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_atan.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_atan.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fabs.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fabs.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fabs.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_floor.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_floor.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_floor.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fpclassify.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fpclassify.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fpclassify.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_lib_ver.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_lib_ver.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_lib_ver.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_scalbn.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_scalbn.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_scalbn.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_copysign.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_copysign.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_copysign.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixdfsi.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-errno.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-errno.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x4c c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x10 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x20 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtend.o
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtend.o
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtend.o
+ .eh_frame      0x00000000        0x4 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtend.o
+ .text          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtn.o
+ .data          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtn.o
+ .bss           0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x08000000         0x00010000         xr
+ram              0x20000000         0x00005000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crti.o
+LOAD c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+LOAD c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+                0x20005000                _eram = 0x20005000
+
+.text           0x08000000     0x83c2
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c ..\obj\startup_stm32f10x_md.o
+                0x08000000                g_pfnVectors
+ *(.text*)
+ .text          0x0800010c       0x54 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+ .text          0x08000160      0x328 ..\obj\mbox.o
+                0x08000160                CoCreateMbox
+                0x08000194                CoDelMbox
+                0x080001e0                CoAcceptMail
+                0x08000270                CoPendMail
+                0x080003cc                CoPostMail
+                0x08000440                isr_PostMail
+ .text          0x08000488      0x8fc ..\obj\flag.o
+                0x08000488                CoCreateFlag
+                0x0800051c                CoDelFlag
+                0x08000634                CoAcceptSingleFlag
+                0x080006b8                CoAcceptMultipleFlags
+                0x08000774                CoWaitForSingleFlag
+                0x080008e8                CoWaitForMultipleFlags
+                0x08000aa8                CoClearFlag
+                0x08000afc                CoSetFlag
+                0x08000bf0                isr_SetFlag
+                0x08000d00                RemoveLinkNode
+ .text          0x08000d84      0x19c ..\obj\core.o
+                0x08000d84                CoEnterISR
+                0x08000d94                CoExitISR
+                0x08000de0                OsSchedUnlock
+                0x08000e2c                CoSchedLock
+                0x08000e4c                CoSchedUnlock
+                0x08000e58                CoInitOS
+                0x08000ed4                CoStartOS
+                0x08000f0c                CoGetOSVersion
+ .text          0x08000f20       0xe8 ..\obj\arch.o
+                0x08000f20                InitTaskContext
+                0x08000f70                SysTick_Handler
+ .text          0x08001008      0x190 ..\obj\serviceReq.o
+                0x08001008                InsertInSRQ
+                0x08001094                RespondSRQ
+ .text          0x08001198      0x8d4 ..\obj\task.o
+                0x08001198                CreateTCBList
+                0x08001200                InsertToTCBRdyList
+                0x08001300                RemoveFromTCBRdyList
+                0x08001388                CoSetPriority
+                0x08001544                Schedule
+                0x080016d0                CreateTask
+                0x080017ec                CoDelTask
+                0x08001900                CoExitTask
+                0x08001918                CoGetCurTaskID
+                0x08001930                CoSuspendTask
+                0x080019cc                CoAwakeTask
+ .text          0x08001a6c      0x2dc ..\obj\sem.o
+                0x08001a6c                CoCreateSem
+                0x08001acc                CoDelSem
+                0x08001b18                CoAcceptSem
+                0x08001b88                CoPendSem
+                0x08001c8c                CoPostSem
+                0x08001d04                isr_PostSem
+ .text          0x08001d48      0x4c0 ..\obj\kernelHeap.o
+                0x08001d48                CoCreateKheap
+                0x08001d90                CoKmalloc
+                0x08001efc                CoKfree
+ .text          0x08002208      0x3f4 ..\obj\time.o
+                0x08002208                InsertDelayList
+                0x080022f8                RemoveDelayList
+                0x080023ac                CoGetOSTime
+                0x080023c8                CoTickDelay
+                0x08002438                CoResetTaskDelayTick
+                0x080024b8                CoTimeDelay
+                0x08002558                TimeDispose
+                0x080025cc                isr_TimeDispose
+ .text          0x080025fc      0x8fc ..\obj\stm32f10x_usart.o
+                0x080025fc                USART_DeInit
+                0x080026b4                USART_Init
+                0x08002828                USART_StructInit
+                0x08002860                USART_ClockInit
+                0x080028b4                USART_ClockStructInit
+                0x080028e0                USART_Cmd
+                0x08002920                USART_ITConfig
+                0x080029b0                USART_DMACmd
+                0x080029f8                USART_SetAddress
+                0x08002a30                USART_WakeUpConfig
+                0x08002a68                USART_ReceiverWakeUpCmd
+                0x08002aa8                USART_LINBreakDetectLengthConfig
+                0x08002ae0                USART_LINCmd
+                0x08002b20                USART_SendData
+                0x08002b44                USART_ReceiveData
+                0x08002b64                USART_SendBreak
+                0x08002b88                USART_SetGuardTime
+                0x08002bc4                USART_SetPrescaler
+                0x08002bfc                USART_SmartCardCmd
+                0x08002c3c                USART_SmartCardNACKCmd
+                0x08002c7c                USART_HalfDuplexCmd
+                0x08002cbc                USART_OverSampling8Cmd
+                0x08002d00                USART_OneBitMethodCmd
+                0x08002d40                USART_IrDAConfig
+                0x08002d78                USART_IrDACmd
+                0x08002db8                USART_GetFlagStatus
+                0x08002df0                USART_ClearFlag
+                0x08002e10                USART_GetITStatus
+                0x08002ec0                USART_ClearITPendingBit
+ .text          0x08002ef8      0x520 ..\obj\queue.o
+                0x08002ef8                CoCreateQueue
+                0x08002ff4                CoDelQueue
+                0x08003090                CoAcceptQueueMail
+                0x08003150                CoPendQueueMail
+                0x08003324                CoPostQueueMail
+                0x080033d0                isr_PostQueueMail
+ .text          0x08003418      0x21c ..\obj\main.o
+                0x08003418                bsp_Init
+                0x080034ec                led_Task
+                0x08003528                gps_Task
+                0x0800355c                startup_Task
+                0x080035bc                get_IDCode
+                0x080035fc                main
+ .text          0x08003634      0x5e4 ..\obj\stm32f10x_gpio.o
+                0x08003634                GPIO_DeInit
+                0x08003718                GPIO_AFIODeInit
+                0x08003730                GPIO_Init
+                0x080038a8                GPIO_StructInit
+                0x080038d0                GPIO_ReadInputDataBit
+                0x08003904                GPIO_ReadInputData
+                0x08003920                GPIO_ReadOutputDataBit
+                0x08003954                GPIO_ReadOutputData
+                0x08003970                GPIO_SetBits
+                0x0800398c                GPIO_ResetBits
+                0x080039a8                GPIO_WriteBit
+                0x080039d8                GPIO_Write
+                0x080039f4                GPIO_PinLockConfig
+                0x08003a38                GPIO_EventOutputConfig
+                0x08003a80                GPIO_EventOutputCmd
+                0x08003aa0                GPIO_PinRemapConfig
+                0x08003b80                GPIO_EXTILineConfig
+                0x08003bfc                GPIO_ETH_MediaInterfaceConfig
+ .text          0x08003c18      0x40c ..\obj\mutex.o
+                0x08003c18                CoCreateMutex
+                0x08003c8c                CoEnterMutexSection
+                0x08003e04                CoLeaveMutexSection
+                0x08003f34                RemoveMutexList
+ .text          0x08004024       0xa0 ..\obj\usart.o
+                0x08004024                USART1_IRQHandler
+                0x08004094                usart_Putchar
+ .text          0x080040c4      0x7d8 ..\obj\stm32f10x_rcc.o
+                0x080040c4                RCC_DeInit
+                0x08004120                RCC_HSEConfig
+                0x0800417c                RCC_WaitForHSEStartUp
+                0x080041cc                RCC_AdjustHSICalibrationValue
+                0x08004208                RCC_HSICmd
+                0x08004228                RCC_PLLConfig
+                0x08004264                RCC_PLLCmd
+                0x08004284                RCC_SYSCLKConfig
+                0x080042bc                RCC_GetSYSCLKSource
+                0x080042dc                RCC_HCLKConfig
+                0x08004314                RCC_PCLK1Config
+                0x0800434c                RCC_PCLK2Config
+                0x08004384                RCC_ITConfig
+                0x080043cc                RCC_USBCLKConfig
+                0x080043e8                RCC_ADCCLKConfig
+                0x08004420                RCC_LSEConfig
+                0x08004460                RCC_LSICmd
+                0x08004480                RCC_RTCCLKConfig
+                0x080044a4                RCC_RTCCLKCmd
+                0x080044c4                RCC_GetClocksFreq
+                0x08004628                RCC_AHBPeriphClockCmd
+                0x08004664                RCC_APB2PeriphClockCmd
+                0x080046a0                RCC_APB1PeriphClockCmd
+                0x080046dc                RCC_APB2PeriphResetCmd
+                0x08004718                RCC_APB1PeriphResetCmd
+                0x08004754                RCC_BackupResetCmd
+                0x08004774                RCC_ClockSecuritySystemCmd
+                0x08004794                RCC_MCOConfig
+                0x080047b4                RCC_GetFlagStatus
+                0x08004828                RCC_ClearFlag
+                0x08004844                RCC_GetITStatus
+                0x0800487c                RCC_ClearITPendingBit
+ .text          0x0800489c      0x188 ..\obj\misc.o
+                0x0800489c                NVIC_PriorityGroupConfig
+                0x080048c0                NVIC_Init
+                0x08004980                NVIC_SetVectorTable
+                0x080049ac                NVIC_SystemLPConfig
+                0x080049ec                SysTick_CLKSourceConfig
+ *fill*         0x08004a24        0x4 
+ .text          0x08004a28      0x510 ..\obj\gps.o
+                0x08004a28                ubx_CheckSum
+                0x08004a64                change_Pos
+                0x08004d2c                gps_Get
+ .text.Reset_Handler
+                0x08004f38       0x4c ..\obj\startup_stm32f10x_md.o
+                0x08004f38                Reset_Handler
+ .text.Default_Handler
+                0x08004f84        0x4 ..\obj\startup_stm32f10x_md.o
+                0x08004f84                EXTI2_IRQHandler
+                0x08004f84                DebugMon_Handler
+                0x08004f84                TIM1_CC_IRQHandler
+                0x08004f84                HardFault_Handler
+                0x08004f84                PVD_IRQHandler
+                0x08004f84                NMI_Handler
+                0x08004f84                EXTI3_IRQHandler
+                0x08004f84                EXTI0_IRQHandler
+                0x08004f84                I2C2_EV_IRQHandler
+                0x08004f84                UsageFault_Handler
+                0x08004f84                ADC1_2_IRQHandler
+                0x08004f84                SPI1_IRQHandler
+                0x08004f84                TAMPER_IRQHandler
+                0x08004f84                DMA1_Channel4_IRQHandler
+                0x08004f84                USART3_IRQHandler
+                0x08004f84                RTC_IRQHandler
+                0x08004f84                DMA1_Channel7_IRQHandler
+                0x08004f84                CAN1_RX1_IRQHandler
+                0x08004f84                TIM4_IRQHandler
+                0x08004f84                I2C1_EV_IRQHandler
+                0x08004f84                DMA1_Channel6_IRQHandler
+                0x08004f84                TIM3_IRQHandler
+                0x08004f84                RCC_IRQHandler
+                0x08004f84                TIM1_TRG_COM_IRQHandler
+                0x08004f84                DMA1_Channel1_IRQHandler
+                0x08004f84                Default_Handler
+                0x08004f84                EXTI15_10_IRQHandler
+                0x08004f84                EXTI9_5_IRQHandler
+                0x08004f84                SPI2_IRQHandler
+                0x08004f84                MemManage_Handler
+                0x08004f84                SVC_Handler
+                0x08004f84                DMA1_Channel5_IRQHandler
+                0x08004f84                EXTI4_IRQHandler
+                0x08004f84                USB_LP_CAN1_RX0_IRQHandler
+                0x08004f84                USB_HP_CAN1_TX_IRQHandler
+                0x08004f84                DMA1_Channel3_IRQHandler
+                0x08004f84                TIM1_UP_IRQHandler
+                0x08004f84                WWDG_IRQHandler
+                0x08004f84                TIM2_IRQHandler
+                0x08004f84                TIM1_BRK_IRQHandler
+                0x08004f84                EXTI1_IRQHandler
+                0x08004f84                RTCAlarm_IRQHandler
+                0x08004f84                USART2_IRQHandler
+                0x08004f84                I2C2_ER_IRQHandler
+                0x08004f84                DMA1_Channel2_IRQHandler
+                0x08004f84                CAN1_SCE_IRQHandler
+                0x08004f84                FLASH_IRQHandler
+                0x08004f84                BusFault_Handler
+                0x08004f84                I2C1_ER_IRQHandler
+                0x08004f84                USBWakeUp_IRQHandler
+ .text          0x08004f88      0x6b8 ..\obj\Ostimer.o
+                0x0800522c                CoCreateTmr
+                0x08005358                CoStartTmr
+                0x080053c8                CoStopTmr
+                0x08005438                CoDelTmr
+                0x080054a8                CoGetCurTmrCnt
+                0x0800550c                CoSetTmrCnt
+                0x08005598                TmrDispose
+                0x08005610                isr_TmrDispose
+ .text          0x08005640      0x24c ..\obj\system_stm32f10x.o
+                0x08005640                SystemInit
+                0x080056a8                SystemCoreClockUpdate
+ .text          0x0800588c       0xd8 ..\obj\port.o
+                0x0800588c                Inc8
+                0x080058bc                Dec8
+                0x080058e8                IRQ_ENABLE_RESTORE
+                0x080058f8                IRQ_DISABLE_SAVE
+                0x08005908                SetEnvironment
+                0x08005914                SwitchContext
+                0x08005920                PendSV_Handler
+ .text          0x08005964      0x42c ..\obj\event.o
+                0x08005964                CreateEventList
+                0x08005a20                CreatEvent
+                0x08005aa4                DeleteEvent
+                0x08005b30                EventTaskToWait
+                0x08005c30                EventTaskToRdy
+                0x08005cf8                RemoveEventWaittingList
+ .text          0x08005d90       0x18 ..\obj\hook.o
+                0x08005d90                CoIdleTask
+                0x08005d9c                CoStkOverflowHook
+ .text.cos      0x08005da8       0x8c c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_cos.o)
+                0x08005da8                cos
+ .text.sin      0x08005e34       0x94 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_sin.o)
+                0x08005e34                sin
+ .text.atan2    0x08005ec8        0x4 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_atan2.o)
+                0x08005ec8                atan2
+ .text.sqrt     0x08005ecc       0xac c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_sqrt.o)
+                0x08005ecc                sqrt
+ .text.__ieee754_atan2
+                0x08005f78      0x1f0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_atan2.o)
+                0x08005f78                __ieee754_atan2
+ .text.__ieee754_rem_pio2
+                0x08006168      0x440 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_rem_pio2.o)
+                0x08006168                __ieee754_rem_pio2
+ .text.__ieee754_sqrt
+                0x080065a8      0x180 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_sqrt.o)
+                0x080065a8                __ieee754_sqrt
+ .text.__kernel_cos
+                0x08006728      0x248 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_cos.o)
+                0x08006728                __kernel_cos
+ .text.__kernel_rem_pio2
+                0x08006970      0x7bc c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_rem_pio2.o)
+                0x08006970                __kernel_rem_pio2
+ *fill*         0x0800712c        0x4 
+ .text.__kernel_sin
+                0x08007130      0x170 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_sin.o)
+                0x08007130                __kernel_sin
+ .text.atan     0x080072a0      0x350 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_atan.o)
+                0x080072a0                atan
+ .text.fabs     0x080075f0        0x8 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fabs.o)
+                0x080075f0                fabs
+ .text.floor    0x080075f8      0x120 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_floor.o)
+                0x080075f8                floor
+ .text.__fpclassifyd
+                0x08007718       0x50 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fpclassify.o)
+                0x08007718                __fpclassifyd
+ .text.matherr  0x08007768        0x4 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+                0x08007768                matherr
+ *fill*         0x0800776c        0x4 
+ .text.scalbn   0x08007770      0x100 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_scalbn.o)
+                0x08007770                scalbn
+ .text.copysign
+                0x08007870       0x14 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_copysign.o)
+                0x08007870                copysign
+ .text          0x08007884      0x370 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubdf3.o)
+                0x08007884                __aeabi_drsub
+                0x0800788c                __aeabi_dsub
+                0x0800788c                __subdf3
+                0x08007890                __aeabi_dadd
+                0x08007890                __adddf3
+                0x08007b08                __floatunsidf
+                0x08007b08                __aeabi_ui2d
+                0x08007b28                __floatsidf
+                0x08007b28                __aeabi_i2d
+                0x08007b4c                __aeabi_f2d
+                0x08007b4c                __extendsfdf2
+                0x08007b88                __floatundidf
+                0x08007b88                __aeabi_ul2d
+                0x08007b98                __floatdidf
+                0x08007b98                __aeabi_l2d
+ .text          0x08007bf4      0x424 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivdf3.o)
+                0x08007bf4                __aeabi_dmul
+                0x08007bf4                __muldf3
+                0x08007e48                __divdf3
+                0x08007e48                __aeabi_ddiv
+ .text          0x08008018      0x110 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpdf2.o)
+                0x08008018                __gtdf2
+                0x08008018                __gedf2
+                0x08008020                __ltdf2
+                0x08008020                __ledf2
+                0x08008028                __nedf2
+                0x08008028                __eqdf2
+                0x08008028                __cmpdf2
+                0x080080a4                __aeabi_cdrcmple
+                0x080080b4                __aeabi_cdcmpeq
+                0x080080b4                __aeabi_cdcmple
+                0x080080c4                __aeabi_dcmpeq
+                0x080080d8                __aeabi_dcmplt
+                0x080080ec                __aeabi_dcmple
+                0x08008100                __aeabi_dcmpge
+                0x08008114                __aeabi_dcmpgt
+ .text          0x08008128       0x50 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixdfsi.o)
+                0x08008128                __aeabi_d2iz
+                0x08008128                __fixdfsi
+ .text.__errno  0x08008178        0xc c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-errno.o)
+                0x08008178                __errno
+ *(.init)
+ .init          0x08008184        0x4 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crti.o
+                0x08008184                _init
+ .init          0x08008188        0x8 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtn.o
+ *(.fini)
+ .fini          0x08008190        0x4 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crti.o
+                0x08008190                _fini
+ .fini          0x08008194        0x8 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata.str1.4
+                0x0800819c        0x8 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_sqrt.o)
+ .rodata.npio2_hw
+                0x080081a4       0x80 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_rem_pio2.o)
+ .rodata.two_over_pi
+                0x08008224      0x108 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_rem_pio2.o)
+ .rodata.init_jk
+                0x0800832c       0x10 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_rem_pio2.o)
+ *fill*         0x0800833c        0x4 
+ .rodata.PIo2   0x08008340       0x40 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_rem_pio2.o)
+ .rodata.atanlo
+                0x08008380       0x20 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_atan.o)
+ .rodata.atanhi
+                0x080083a0       0x20 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_atan.o)
+ .rodata.str1.1
+                0x080083c0        0x2 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-impure.o)
+ *(.eh_fram e*)
+
+.eh_frame       0x080083c4        0x0
+ .eh_frame      0x080083c4        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+
+.glue_7         0x080083c4        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x080083c4        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x080083c4        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x080083c4        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x080083c4        0x0
+ .iplt          0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+
+.rel.dyn        0x080083c4        0x0
+ .rel.iplt      0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x080083c4                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x080083c4                __exidx_end = .
+                0x080083c4                __etext = .
+                0x080083c2                _sidata = __etext
+
+.data           0x20000000       0xa8 load address 0x080083c2
+                0x20000000                __data_start__ = .
+                0x20000000                _sdata = __data_start__
+ *(vtable)
+ *(.data*)
+ .data          0x20000000       0x14 ..\obj\stm32f10x_rcc.o
+ .data          0x20000014       0x14 ..\obj\system_stm32f10x.o
+                0x20000014                SystemCoreClock
+                0x20000018                AHBPrescTable
+ .data          0x20000028        0xc ..\obj\port.o
+                0x20000028                NVIC_INT_CTRL
+                0x2000002c                NVIC_PENDSVSET
+                0x20000030                INT_EXIT
+ .data.__fdlib_version
+                0x20000034        0x1 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_lib_ver.o)
+                0x20000034                __fdlib_version
+ *fill*         0x20000035        0x3 
+ .data.impure_data
+                0x20000038       0x60 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000098        0x4 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-impure.o)
+                0x20000098                _impure_ptr
+                0x2000009c                . = ALIGN (0x4)
+                0x2000009c                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x2000009c                PROVIDE (__preinit_array_end, .)
+                0x2000009c                . = ALIGN (0x4)
+                0x2000009c                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+ .init_array    0x2000009c        0x4 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+                0x200000a0                PROVIDE (__init_array_end, .)
+                0x200000a0                . = ALIGN (0x4)
+                0x200000a0                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x200000a0        0x4 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+                0x200000a4                PROVIDE (__fini_array_end, .)
+ *(.jcr*)
+ .jcr           0x200000a4        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+ .jcr           0x200000a4        0x4 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtend.o
+                0x200000a8                . = ALIGN (0x4)
+                0x200000a8                __data_end__ = .
+                0x200000a8                _edata = __data_end__
+
+.igot.plt       0x200000a8        0x0 load address 0x0800846c
+ .igot.plt      0x00000000        0x0 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+
+.bss            0x200000a8     0x2198 load address 0x08008470
+                0x200000a8                . = ALIGN (0x4)
+                0x200000a8                __bss_start__ = .
+                0x200000a8                _sbss = __bss_start__
+ *(.bss*)
+ .bss           0x200000a8       0x1c c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+ .bss           0x200000c4       0x14 ..\obj\flag.o
+                0x200000c4                FlagCrl
+ .bss           0x200000d8        0x3 ..\obj\core.o
+                0x200000d8                OSIntNesting
+                0x200000d9                OSSchedLock
+                0x200000da                TaskSchedReq
+ *fill*         0x200000db        0x5 
+ .bss           0x200000e0        0x8 ..\obj\arch.o
+                0x200000e0                OSTickCnt
+ .bss           0x200000e8       0x30 ..\obj\serviceReq.o
+                0x200000e8                ServiceReq
+                0x20000114                IsrReq
+                0x20000115                TimeReq
+                0x20000116                TimerReq
+ .bss           0x20000118      0x188 ..\obj\task.o
+                0x20000118                TCBTbl
+                0x20000220                idle_stk
+                0x20000284                FreeTCB
+                0x20000288                TCBRdy
+                0x2000028c                TCBNext
+                0x20000290                TCBRunning
+                0x20000298                OSCheckTime
+ .bss           0x200002a0       0xd4 ..\obj\kernelHeap.o
+                0x200002a0                KernelHeap
+                0x20000368                FMBlist
+                0x2000036c                Kheap
+ .bss           0x20000374        0x4 ..\obj\time.o
+                0x20000374                DlyList
+ .bss           0x20000378       0x24 ..\obj\queue.o
+                0x20000378                QueueTbl
+                0x20000398                QueueIDVessel
+ .bss           0x2000039c        0xc ..\obj\main.o
+ .bss           0x200003a8       0x54 ..\obj\mutex.o
+                0x200003a8                MutexFreeID
+                0x200003ac                MutexTbl
+ .bss           0x200003fc        0x2 ..\obj\usart.o
+                0x200003fc                rx_Point
+ *fill*         0x200003fe        0x2 
+ .bss           0x20000400       0x14 ..\obj\gps.o
+                0x20000400                step
+                0x20000401                cont
+                0x20000402                ClassID
+                0x20000403                msgLenL
+                0x20000404                msgLenH
+                0x20000405                CK_A
+                0x20000406                CK_B
+                0x20000408                Len
+                0x2000040c                x
+                0x20000410                y
+ .bss           0x20000414       0x38 ..\obj\Ostimer.o
+                0x20000414                TmrTbl
+                0x20000444                TmrList
+                0x20000448                TmrIDVessel
+ .bss           0x2000044c      0x144 ..\obj\event.o
+                0x2000044c                EventTbl
+                0x2000058c                FreeEventList
+ *(COMMON)
+ COMMON         0x20000590     0x1b85 ..\obj\main.o
+                0x20000590                gps_Stk
+                0x2000098c                rx_Queue
+                0x2000192c                led_Stk
+                0x20001b2c                rx_Buff
+                0x20001f14                startup_Stk
+                0x20002114                usart_Rx
+ *fill*         0x20002115        0x3 
+ COMMON         0x20002118      0x128 ..\obj\gps.o
+                0x20002118                gpsdata
+                0x20002218                l
+                0x20002220                i
+                0x20002228                xx
+                0x20002230                yy
+                0x20002238                s
+                0x20002240                . = ALIGN (0x4)
+                0x20002240                __bss_end__ = .
+                0x20002240                _ebss = __bss_end__
+
+.heap           0x20002240        0x0
+                0x20002240                __end__ = .
+                0x20002240                _end = __end__
+                0x20002240                end = __end__
+ *(.heap*)
+                0x20002240                __HeapLimit = .
+
+.co_stack       0x20002240        0x0
+                0x20002240                . = ALIGN (0x8)
+ *(.co_stack .co_stack.*)
+                0x20005000                __StackTop = (ORIGIN (ram) + 0x5000)
+                0x20005000                __StackLimit = (__StackTop - SIZEOF (.co_stack))
+                0x20005000                PROVIDE (__stack, __StackTop)
+                0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region ram  overflowed with stack)
+LOAD ..\obj\mbox.o
+LOAD ..\obj\stm32f10x_fsmc.o
+LOAD ..\obj\flag.o
+LOAD ..\obj\stm32f10x_dma.o
+LOAD ..\obj\core.o
+LOAD ..\obj\arch.o
+LOAD ..\obj\stm32f10x_pwr.o
+LOAD ..\obj\serviceReq.o
+LOAD ..\obj\stm32f10x_dbgmcu.o
+LOAD ..\obj\stm32f10x_cec.o
+LOAD ..\obj\syscalls.o
+LOAD ..\obj\task.o
+LOAD ..\obj\sem.o
+LOAD ..\obj\stm32f10x_spi.o
+LOAD ..\obj\stm32f10x_wwdg.o
+LOAD ..\obj\kernelHeap.o
+LOAD ..\obj\time.o
+LOAD ..\obj\stm32f10x_rtc.o
+LOAD ..\obj\stm32f10x_usart.o
+LOAD ..\obj\queue.o
+LOAD ..\obj\stm32f10x_crc.o
+LOAD ..\obj\stm32f10x_adc.o
+LOAD ..\obj\stm32f10x_dac.o
+LOAD ..\obj\main.o
+LOAD ..\obj\stm32f10x_gpio.o
+LOAD ..\obj\mutex.o
+LOAD ..\obj\usart.o
+LOAD ..\obj\stm32f10x_rcc.o
+LOAD ..\obj\mm.o
+LOAD ..\obj\stm32f10x_sdio.o
+LOAD ..\obj\misc.o
+LOAD ..\obj\stm32f10x_i2c.o
+LOAD ..\obj\gps.o
+LOAD ..\obj\startup_stm32f10x_md.o
+LOAD ..\obj\Ostimer.o
+LOAD ..\obj\system_stm32f10x.o
+LOAD ..\obj\stm32f10x_can.o
+LOAD ..\obj\stm32f10x_bkp.o
+LOAD ..\obj\stm32f10x_flash.o
+LOAD ..\obj\port.o
+LOAD ..\obj\stm32f10x_iwdg.o
+LOAD ..\obj\stm32f10x_tim.o
+LOAD ..\obj\utility.o
+LOAD ..\obj\event.o
+LOAD ..\obj\stm32f10x_exti.o
+LOAD ..\obj\hook.o
+LOAD c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a
+START GROUP
+LOAD c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a
+LOAD c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a
+LOAD c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a
+END GROUP
+START GROUP
+LOAD c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a
+LOAD c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libc_s.a
+END GROUP
+LOAD c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtend.o
+LOAD c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtn.o
+OUTPUT(GPS_ChangePos.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x1d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x33 ..\obj\mbox.o
+ .ARM.attributes
+                0x0000007d       0x33 ..\obj\flag.o
+ .ARM.attributes
+                0x000000b0       0x33 ..\obj\core.o
+ .ARM.attributes
+                0x000000e3       0x33 ..\obj\arch.o
+ .ARM.attributes
+                0x00000116       0x33 ..\obj\serviceReq.o
+ .ARM.attributes
+                0x00000149       0x33 ..\obj\task.o
+ .ARM.attributes
+                0x0000017c       0x33 ..\obj\sem.o
+ .ARM.attributes
+                0x000001af       0x33 ..\obj\kernelHeap.o
+ .ARM.attributes
+                0x000001e2       0x33 ..\obj\time.o
+ .ARM.attributes
+                0x00000215       0x33 ..\obj\stm32f10x_usart.o
+ .ARM.attributes
+                0x00000248       0x33 ..\obj\queue.o
+ .ARM.attributes
+                0x0000027b       0x33 ..\obj\main.o
+ .ARM.attributes
+                0x000002ae       0x33 ..\obj\stm32f10x_gpio.o
+ .ARM.attributes
+                0x000002e1       0x33 ..\obj\mutex.o
+ .ARM.attributes
+                0x00000314       0x33 ..\obj\usart.o
+ .ARM.attributes
+                0x00000347       0x33 ..\obj\stm32f10x_rcc.o
+ .ARM.attributes
+                0x0000037a       0x33 ..\obj\misc.o
+ .ARM.attributes
+                0x000003ad       0x33 ..\obj\gps.o
+ .ARM.attributes
+                0x000003e0       0x21 ..\obj\startup_stm32f10x_md.o
+ .ARM.attributes
+                0x00000401       0x33 ..\obj\Ostimer.o
+ .ARM.attributes
+                0x00000434       0x33 ..\obj\system_stm32f10x.o
+ .ARM.attributes
+                0x00000467       0x33 ..\obj\port.o
+ .ARM.attributes
+                0x0000049a       0x33 ..\obj\event.o
+ .ARM.attributes
+                0x000004cd       0x33 ..\obj\hook.o
+ .ARM.attributes
+                0x00000500       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_cos.o)
+ .ARM.attributes
+                0x0000052d       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_sin.o)
+ .ARM.attributes
+                0x0000055a       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_atan2.o)
+ .ARM.attributes
+                0x00000587       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_sqrt.o)
+ .ARM.attributes
+                0x000005b4       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_atan2.o)
+ .ARM.attributes
+                0x000005e1       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_rem_pio2.o)
+ .ARM.attributes
+                0x0000060e       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_sqrt.o)
+ .ARM.attributes
+                0x0000063b       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_cos.o)
+ .ARM.attributes
+                0x00000668       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_rem_pio2.o)
+ .ARM.attributes
+                0x00000695       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_sin.o)
+ .ARM.attributes
+                0x000006c2       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_atan.o)
+ .ARM.attributes
+                0x000006ef       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fabs.o)
+ .ARM.attributes
+                0x0000071c       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_floor.o)
+ .ARM.attributes
+                0x00000749       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fpclassify.o)
+ .ARM.attributes
+                0x00000776       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_lib_ver.o)
+ .ARM.attributes
+                0x000007a3       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+ .ARM.attributes
+                0x000007d0       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_scalbn.o)
+ .ARM.attributes
+                0x000007fd       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_copysign.o)
+ .ARM.attributes
+                0x0000082a       0x1d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000847       0x1d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000864       0x1d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000881       0x1d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x0000089e       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-errno.o)
+ .ARM.attributes
+                0x000008cb       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000008f8       0x2d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtend.o
+ .ARM.attributes
+                0x00000925       0x1d c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtn.o
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ..\obj\mbox.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ..\obj\flag.o
+ .comment       0x00000000       0x71 ..\obj\core.o
+ .comment       0x00000000       0x71 ..\obj\arch.o
+ .comment       0x00000000       0x71 ..\obj\serviceReq.o
+ .comment       0x00000000       0x71 ..\obj\task.o
+ .comment       0x00000000       0x71 ..\obj\sem.o
+ .comment       0x00000000       0x71 ..\obj\kernelHeap.o
+ .comment       0x00000000       0x71 ..\obj\time.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_usart.o
+ .comment       0x00000000       0x71 ..\obj\queue.o
+ .comment       0x00000000       0x71 ..\obj\main.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_gpio.o
+ .comment       0x00000000       0x71 ..\obj\mutex.o
+ .comment       0x00000000       0x71 ..\obj\usart.o
+ .comment       0x00000000       0x71 ..\obj\stm32f10x_rcc.o
+ .comment       0x00000000       0x71 ..\obj\misc.o
+ .comment       0x00000000       0x71 ..\obj\gps.o
+ .comment       0x00000000       0x71 ..\obj\Ostimer.o
+ .comment       0x00000000       0x71 ..\obj\system_stm32f10x.o
+ .comment       0x00000000       0x71 ..\obj\port.o
+ .comment       0x00000000       0x71 ..\obj\event.o
+ .comment       0x00000000       0x71 ..\obj\hook.o
+
+.debug_info     0x00000000     0x67d2
+ .debug_info    0x00000000      0x411 ..\obj\mbox.o
+ .debug_info    0x00000411      0x639 ..\obj\flag.o
+ .debug_info    0x00000a4a      0x2c9 ..\obj\core.o
+ .debug_info    0x00000d13      0x2fe ..\obj\arch.o
+ .debug_info    0x00001011      0x1e5 ..\obj\serviceReq.o
+ .debug_info    0x000011f6      0x6d7 ..\obj\task.o
+ .debug_info    0x000018cd      0x3d1 ..\obj\sem.o
+ .debug_info    0x00001c9e      0x2d3 ..\obj\kernelHeap.o
+ .debug_info    0x00001f71      0x3d2 ..\obj\time.o
+ .debug_info    0x00002343      0x9e8 ..\obj\stm32f10x_usart.o
+ .debug_info    0x00002d2b      0x528 ..\obj\queue.o
+ .debug_info    0x00003253      0x6ec ..\obj\main.o
+ .debug_info    0x0000393f      0x6e7 ..\obj\stm32f10x_gpio.o
+ .debug_info    0x00004026      0x475 ..\obj\mutex.o
+ .debug_info    0x0000449b      0x285 ..\obj\usart.o
+ .debug_info    0x00004720      0x88d ..\obj\stm32f10x_rcc.o
+ .debug_info    0x00004fad      0x53d ..\obj\misc.o
+ .debug_info    0x000054ea      0x2de ..\obj\gps.o
+ .debug_info    0x000057c8       0xd9 ..\obj\startup_stm32f10x_md.o
+ .debug_info    0x000058a1      0x3bf ..\obj\Ostimer.o
+ .debug_info    0x00005c60      0x479 ..\obj\system_stm32f10x.o
+ .debug_info    0x000060d9      0x197 ..\obj\port.o
+ .debug_info    0x00006270      0x4a6 ..\obj\event.o
+ .debug_info    0x00006716       0xbc ..\obj\hook.o
+
+.debug_abbrev   0x00000000     0x1f6e
+ .debug_abbrev  0x00000000      0x15f ..\obj\mbox.o
+ .debug_abbrev  0x0000015f      0x1b1 ..\obj\flag.o
+ .debug_abbrev  0x00000310       0xf5 ..\obj\core.o
+ .debug_abbrev  0x00000405      0x111 ..\obj\arch.o
+ .debug_abbrev  0x00000516      0x114 ..\obj\serviceReq.o
+ .debug_abbrev  0x0000062a      0x1ef ..\obj\task.o
+ .debug_abbrev  0x00000819      0x150 ..\obj\sem.o
+ .debug_abbrev  0x00000969      0x14f ..\obj\kernelHeap.o
+ .debug_abbrev  0x00000ab8      0x194 ..\obj\time.o
+ .debug_abbrev  0x00000c4c      0x162 ..\obj\stm32f10x_usart.o
+ .debug_abbrev  0x00000dae      0x17f ..\obj\queue.o
+ .debug_abbrev  0x00000f2d      0x1b5 ..\obj\main.o
+ .debug_abbrev  0x000010e2      0x1c8 ..\obj\stm32f10x_gpio.o
+ .debug_abbrev  0x000012aa      0x15f ..\obj\mutex.o
+ .debug_abbrev  0x00001409      0x129 ..\obj\usart.o
+ .debug_abbrev  0x00001532      0x1ba ..\obj\stm32f10x_rcc.o
+ .debug_abbrev  0x000016ec      0x145 ..\obj\misc.o
+ .debug_abbrev  0x00001831      0x106 ..\obj\gps.o
+ .debug_abbrev  0x00001937       0x12 ..\obj\startup_stm32f10x_md.o
+ .debug_abbrev  0x00001949      0x194 ..\obj\Ostimer.o
+ .debug_abbrev  0x00001add      0x14c ..\obj\system_stm32f10x.o
+ .debug_abbrev  0x00001c29       0xe7 ..\obj\port.o
+ .debug_abbrev  0x00001d10      0x1d4 ..\obj\event.o
+ .debug_abbrev  0x00001ee4       0x8a ..\obj\hook.o
+
+.debug_aranges  0x00000000      0x308
+ .debug_aranges
+                0x00000000       0x20 ..\obj\mbox.o
+ .debug_aranges
+                0x00000020       0x20 ..\obj\flag.o
+ .debug_aranges
+                0x00000040       0x20 ..\obj\core.o
+ .debug_aranges
+                0x00000060       0x20 ..\obj\arch.o
+ .debug_aranges
+                0x00000080       0x20 ..\obj\serviceReq.o
+ .debug_aranges
+                0x000000a0       0x20 ..\obj\task.o
+ .debug_aranges
+                0x000000c0       0x20 ..\obj\sem.o
+ .debug_aranges
+                0x000000e0       0x20 ..\obj\kernelHeap.o
+ .debug_aranges
+                0x00000100       0x20 ..\obj\time.o
+ .debug_aranges
+                0x00000120       0x20 ..\obj\stm32f10x_usart.o
+ .debug_aranges
+                0x00000140       0x20 ..\obj\queue.o
+ .debug_aranges
+                0x00000160       0x20 ..\obj\main.o
+ .debug_aranges
+                0x00000180       0x20 ..\obj\stm32f10x_gpio.o
+ .debug_aranges
+                0x000001a0       0x20 ..\obj\mutex.o
+ .debug_aranges
+                0x000001c0       0x20 ..\obj\usart.o
+ .debug_aranges
+                0x000001e0       0x20 ..\obj\stm32f10x_rcc.o
+ .debug_aranges
+                0x00000200       0x20 ..\obj\misc.o
+ .debug_aranges
+                0x00000220       0x20 ..\obj\gps.o
+ .debug_aranges
+                0x00000240       0x28 ..\obj\startup_stm32f10x_md.o
+ .debug_aranges
+                0x00000268       0x20 ..\obj\Ostimer.o
+ .debug_aranges
+                0x00000288       0x20 ..\obj\system_stm32f10x.o
+ .debug_aranges
+                0x000002a8       0x20 ..\obj\port.o
+ .debug_aranges
+                0x000002c8       0x20 ..\obj\event.o
+ .debug_aranges
+                0x000002e8       0x20 ..\obj\hook.o
+
+.debug_line     0x00000000     0x2bf2
+ .debug_line    0x00000000      0x127 ..\obj\mbox.o
+ .debug_line    0x00000127      0x1fd ..\obj\flag.o
+ .debug_line    0x00000324       0xf6 ..\obj\core.o
+ .debug_line    0x0000041a      0x13a ..\obj\arch.o
+ .debug_line    0x00000554       0xeb ..\obj\serviceReq.o
+ .debug_line    0x0000063f      0x2ae ..\obj\task.o
+ .debug_line    0x000008ed      0x11c ..\obj\sem.o
+ .debug_line    0x00000a09      0x199 ..\obj\kernelHeap.o
+ .debug_line    0x00000ba2      0x1d4 ..\obj\time.o
+ .debug_line    0x00000d76      0x31a ..\obj\stm32f10x_usart.o
+ .debug_line    0x00001090      0x171 ..\obj\queue.o
+ .debug_line    0x00001201      0x302 ..\obj\main.o
+ .debug_line    0x00001503      0x2bb ..\obj\stm32f10x_gpio.o
+ .debug_line    0x000017be      0x166 ..\obj\mutex.o
+ .debug_line    0x00001924      0x27a ..\obj\usart.o
+ .debug_line    0x00001b9e      0x317 ..\obj\stm32f10x_rcc.o
+ .debug_line    0x00001eb5      0x1fd ..\obj\misc.o
+ .debug_line    0x000020b2      0x322 ..\obj\gps.o
+ .debug_line    0x000023d4       0xcf ..\obj\startup_stm32f10x_md.o
+ .debug_line    0x000024a3      0x1ab ..\obj\Ostimer.o
+ .debug_line    0x0000264e      0x23e ..\obj\system_stm32f10x.o
+ .debug_line    0x0000288c      0x12d ..\obj\port.o
+ .debug_line    0x000029b9      0x190 ..\obj\event.o
+ .debug_line    0x00002b49       0xa9 ..\obj\hook.o
+
+.debug_str      0x00000000     0x269f
+ .debug_str     0x00000000      0x2c4 ..\obj\mbox.o
+                                0x2dd (size before relaxing)
+ .debug_str     0x000002c4      0x1f0 ..\obj\flag.o
+                                0x3ba (size before relaxing)
+ .debug_str     0x000004b4       0xe8 ..\obj\core.o
+                                0x29c (size before relaxing)
+ .debug_str     0x0000059c      0x116 ..\obj\arch.o
+                                0x2bc (size before relaxing)
+ .debug_str     0x000006b2       0xd1 ..\obj\serviceReq.o
+                                0x1c2 (size before relaxing)
+ .debug_str     0x00000783      0x1c4 ..\obj\task.o
+                                0x43b (size before relaxing)
+ .debug_str     0x00000947       0xb2 ..\obj\sem.o
+                                0x2e0 (size before relaxing)
+ .debug_str     0x000009f9      0x160 ..\obj\kernelHeap.o
+                                0x24d (size before relaxing)
+ .debug_str     0x00000b59      0x101 ..\obj\time.o
+                                0x2f9 (size before relaxing)
+ .debug_str     0x00000c5a      0x574 ..\obj\stm32f10x_usart.o
+                                0x6b1 (size before relaxing)
+ .debug_str     0x000011ce       0xfe ..\obj\queue.o
+                                0x341 (size before relaxing)
+ .debug_str     0x000012cc      0x593 ..\obj\main.o
+                                0x801 (size before relaxing)
+ .debug_str     0x0000185f      0x28b ..\obj\stm32f10x_gpio.o
+                                0x53a (size before relaxing)
+ .debug_str     0x00001aea       0xb6 ..\obj\mutex.o
+                                0x34c (size before relaxing)
+ .debug_str     0x00001ba0       0x5e ..\obj\usart.o
+                                0x231 (size before relaxing)
+ .debug_str     0x00001bfe      0x41b ..\obj\stm32f10x_rcc.o
+                                0x63b (size before relaxing)
+ .debug_str     0x00002019      0x1d4 ..\obj\misc.o
+                                0x3df (size before relaxing)
+ .debug_str     0x000021ed       0x8c ..\obj\gps.o
+                                0x250 (size before relaxing)
+ .debug_str     0x00002279       0xee ..\obj\Ostimer.o
+                                0x28c (size before relaxing)
+ .debug_str     0x00002367       0xe1 ..\obj\system_stm32f10x.o
+                                0x311 (size before relaxing)
+ .debug_str     0x00002448       0xf0 ..\obj\port.o
+                                0x1dc (size before relaxing)
+ .debug_str     0x00002538       0xe7 ..\obj\event.o
+                                0x344 (size before relaxing)
+ .debug_str     0x0000261f       0x80 ..\obj\hook.o
+                                0x16f (size before relaxing)
+
+.debug_frame    0x00000000     0x1af4
+ .debug_frame   0x00000000       0xd0 ..\obj\mbox.o
+ .debug_frame   0x000000d0      0x184 ..\obj\flag.o
+ .debug_frame   0x00000254       0xe8 ..\obj\core.o
+ .debug_frame   0x0000033c       0x48 ..\obj\arch.o
+ .debug_frame   0x00000384       0x50 ..\obj\serviceReq.o
+ .debug_frame   0x000003d4      0x178 ..\obj\task.o
+ .debug_frame   0x0000054c       0xd0 ..\obj\sem.o
+ .debug_frame   0x0000061c       0x84 ..\obj\kernelHeap.o
+ .debug_frame   0x000006a0       0xfc ..\obj\time.o
+ .debug_frame   0x0000079c      0x344 ..\obj\stm32f10x_usart.o
+ .debug_frame   0x00000ae0       0xd0 ..\obj\queue.o
+ .debug_frame   0x00000bb0       0xc4 ..\obj\main.o
+ .debug_frame   0x00000c74      0x210 ..\obj\stm32f10x_gpio.o
+ .debug_frame   0x00000e84       0x90 ..\obj\mutex.o
+ .debug_frame   0x00000f14       0x50 ..\obj\usart.o
+ .debug_frame   0x00000f64      0x388 ..\obj\stm32f10x_rcc.o
+ .debug_frame   0x000012ec       0x9c ..\obj\misc.o
+ .debug_frame   0x00001388       0x6c ..\obj\gps.o
+ .debug_frame   0x000013f4      0x148 ..\obj\Ostimer.o
+ .debug_frame   0x0000153c       0x80 ..\obj\system_stm32f10x.o
+ .debug_frame   0x000015bc       0xb0 ..\obj\port.o
+ .debug_frame   0x0000166c       0xe8 ..\obj\event.o
+ .debug_frame   0x00001754       0x48 ..\obj\hook.o
+ .debug_frame   0x0000179c       0x30 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_cos.o)
+ .debug_frame   0x000017cc       0x30 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_sin.o)
+ .debug_frame   0x000017fc       0x20 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_atan2.o)
+ .debug_frame   0x0000181c       0x38 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-w_sqrt.o)
+ .debug_frame   0x00001854       0x38 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_atan2.o)
+ .debug_frame   0x0000188c       0x38 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_rem_pio2.o)
+ .debug_frame   0x000018c4       0x34 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-e_sqrt.o)
+ .debug_frame   0x000018f8       0x38 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_cos.o)
+ .debug_frame   0x00001930       0x3c c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_rem_pio2.o)
+ .debug_frame   0x0000196c       0x38 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-k_sin.o)
+ .debug_frame   0x000019a4       0x38 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_atan.o)
+ .debug_frame   0x000019dc       0x20 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fabs.o)
+ .debug_frame   0x000019fc       0x38 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_floor.o)
+ .debug_frame   0x00001a34       0x28 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_fpclassify.o)
+ .debug_frame   0x00001a5c       0x20 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_matherr.o)
+ .debug_frame   0x00001a7c       0x30 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_scalbn.o)
+ .debug_frame   0x00001aac       0x28 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libm.a(lib_a-s_copysign.o)
+ .debug_frame   0x00001ad4       0x20 c:/users/t/.platformio/packages/toolchain-gccarmnoneeabi/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m\libg_s.a(lib_a-errno.o)
+
+.debug_ranges   0x00000000       0x20
+ .debug_ranges  0x00000000       0x20 ..\obj\startup_stm32f10x_md.o
